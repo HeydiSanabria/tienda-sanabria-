@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto:wght@100&display=swap");
+header nav {
+  background-color: white;
+  font-family: 'Poppins', sans-serif, black; }
+  header nav div a img {
+    width: 100px;
+    height: 100px; }
+  header nav div div ul li a {
+    color: black !important; }
+
+footer div {
+  font-family: 'Poppins', sans-serif, black;
+  background-color: white; }
+  footer div div img {
+    width: 100px;
+    height: 100px; }
+
+.container-fluid {
+  font-family: 'Poppins', sans-serif, black; }
+  .container-fluid .row .col .button-container {
+    position: relative; }
+    .container-fluid .row .col .button-container .button1, .container-fluid .row .col .button-container .button1--eliminar {
+      left: 50%;
+      top: 50%;
+      position: absolute;
+      background-color: black;
+      border-radius: 1.5em;
+      color: white;
+      text-decoration: none;
+      text-transform: uppercase;
+      padding: 1em 1.5em; }
+
+form {
+  text-align: center; }
+
+.button1--eliminar {
+  top: 75% !important; }
+
+main div div form {
+  text-align: center; }

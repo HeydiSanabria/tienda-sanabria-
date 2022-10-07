@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto:wght@100&display=swap');
+body{
+    width: 100vw;
+    height: 150vh;
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    height: 10vh;
+
+}
+#main{
+    height: 130vh;
+}
+#footer{
+    height: 10vh;
+}
+.carousel-inner > .carousel-item > img {
+    object-fit: cover;
+    height: 727px;
+    width: 100vw !important;
+  }
+  .row > .col > img {
+    object-fit: cover;
+    height: 400px;
+    width: 100% !important;
+  }
+fieldset{
+    margin: 300px;
+}
